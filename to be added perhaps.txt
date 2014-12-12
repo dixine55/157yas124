@@ -3,3 +3,5 @@ Custom printers, try to add "Gemstone Money Printers (Requires DarkRP 2.5.x)" ma
 Vehicle system: 1 npc @ the parking slot on rp_downtown_v4c_v2 , garage, store
 All the jobs you had on your server, but remove the V.I.P ones excluding "Ninja"
 Grappling gun for the ninja 
+A plugin that makes the gun stack to the shipment
+Custom inventory accessed by pressing F2 with 28 slots, 7 slots on each row and 4 layers.
