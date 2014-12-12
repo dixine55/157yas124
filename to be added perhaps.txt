@@ -1,0 +1,5 @@
+Custom shipments using the CSS Weapons on M9K Base workshop plugin made by "INCONEIVABLE" (for every gun x10 and x1)
+Custom printers, try to add "Gemstone Money Printers (Requires DarkRP 2.5.x)" made by KoZ
+Vehicle system: 1 npc @ the parking slot on rp_downtown_v4c_v2 , garage, store
+All the jobs you had on your server, but remove the V.I.P ones excluding "Ninja"
+Grappling gun for the ninja 
